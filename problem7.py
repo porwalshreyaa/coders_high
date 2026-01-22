@@ -8,7 +8,7 @@ park = 0
 restaurant = 0
 i=0
 while i<100 :
-# and isinstance(happy, int) and isinstance(stressed, int) and happy>=0 and stressed>=0:
+# and isinstance(apartment, int) and isinstance(park, int) and isinstance(restaurant, int) and apartment>=0 and park>=0 and restaurant>=0:
     # sa=int(apartment*0.1) #stay at apartment
     atp=int(apartment*0.5) # go to park
     atr=int(apartment*0.4) # go to restaurant
